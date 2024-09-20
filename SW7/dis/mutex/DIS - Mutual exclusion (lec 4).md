@@ -82,15 +82,15 @@ Maekawas Algorithm
 	- Ordering (only for synchronous)
 - fault tolerance = if one dies in voting set, then deadlock
 
-Heartbeat in synchronized systems
-- Assume transmission delay D
-- send beat for every T seconds
-- Declare dead if no response in T+D seconds
+- Heartbeat in synchronized systems
+	- Assume transmission delay D
+	- send beat for every T seconds
+	- Declare dead if no response in T+D seconds
 
-Heartbeat in Async systems
-- Guess a D
-- Send beat every T seconds
-- Dead if not observed in T+D seconds
-- If D is too small = alive can be reported dead
-- If D is too large = dead can be reported as alive
-- We can only suspect crash
+- Heartbeat in Async systems
+	- Guess a D
+	- Send beat every T seconds
+	- Dead if not observed in T+D seconds
+	- If D is too small = alive can be reported dead
+	- If D is too large = dead can be reported as alive
+	- We can only suspect crash
