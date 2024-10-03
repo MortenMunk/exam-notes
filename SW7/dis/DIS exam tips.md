@@ -12,3 +12,8 @@ And:
 
 Skip crash detection
 
+
+**Lec 5**:
+- Discuss ISIS a little (not too much time)
+	- Causal maneuver and lamport clocks
+	- Describe below figure![[Pasted image 20241003142017.png]]
