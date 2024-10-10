@@ -27,3 +27,10 @@ Consensus = 2 minutes about context, why it is important
 	- f-crashes resilient
 	- f-king (brug eksempel fra tavlen)
 	- Paxsos or Raft without detailed algorithm
+
+**Lec 7:**
+Show different consistency (strong, weak, causual)
+Active replication (VIGTIGT AT FORSTÅ FORSKELLEN PÅ REPLICATIONS, eg. active, passive)
+General idea/discussion of gossip architecture
+something general about elections (block and read, timestamp)
+maybe some vector clocks
