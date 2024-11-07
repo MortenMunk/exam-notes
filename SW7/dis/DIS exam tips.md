@@ -34,3 +34,11 @@ Active replication (VIGTIGT AT FORSTÅ FORSKELLEN PÅ REPLICATIONS, eg. active, 
 General idea/discussion of gossip architecture
 something general about elections (block and read, timestamp)
 maybe some vector clocks
+
+**Lec8**
+Merkle trees are optional
+Describe how the blockchain works
+Consensus (Proof of work)
+Miners and what they do
+Maybe transaction checking
+Longest chain wins.
