@@ -42,3 +42,12 @@ Consensus (Proof of work)
 Miners and what they do
 Maybe transaction checking
 Longest chain wins.
+
+**Lec9**
+Be able to explain chord in a structured p2p network
+
+**Lec10**
+very light on mac layers or not. it depends on you
+Discuss about Tree Routing and Cskip
+DSR and differences between tree routing
+Star network, tree network, mesh network
