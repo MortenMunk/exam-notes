@@ -51,3 +51,9 @@ very light on mac layers or not. it depends on you
 Discuss about Tree Routing and Cskip
 DSR and differences between tree routing
 Star network, tree network, mesh network
+
+**Lec11**
+GFS architecture & passive replication
+What if master fails (checkpoint, logfiles etc.)
+Why do I need chubby
+Difference between masters
